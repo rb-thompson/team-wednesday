@@ -9,6 +9,8 @@ This is a simple HTML project where we'll work together to create a basic webpag
 2. **Welcome Message**: Write or generate a welcome message for our team.
 3. **Footer**: Add a footer with a hyperlink and copyright information.
 
+Each person in the group can choose a task to complete. As we finish tasks, we will make new ones based on feedback.
+
 ## Getting Started with GitHub
 
 ### Step 1: Clone the Repository
